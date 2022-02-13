@@ -7,7 +7,7 @@ Specifically, we use graphical models to build networks that indicate the relati
 * Graphical models, hubs, scale-free
 * Network analysis, community detection
 ##  What I learned
-* The skill to apply advanced ststistical models to real problems
+* The skills to apply advanced ststistical models to real problems
 * Data collection techniques such as web scraping
 * Data visualisation skills including ggplot2 and ggmap
 
